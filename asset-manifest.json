@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Gif_Generator/static/css/main.aa86c614.css",
+    "main.js": "/React_Gif_Generator/static/js/main.c83d27d8.js",
+    "index.html": "/React_Gif_Generator/index.html",
+    "main.aa86c614.css.map": "/React_Gif_Generator/static/css/main.aa86c614.css.map",
+    "main.c83d27d8.js.map": "/React_Gif_Generator/static/js/main.c83d27d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa86c614.css",
+    "static/js/main.c83d27d8.js"
+  ]
+}
